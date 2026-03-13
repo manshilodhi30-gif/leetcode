@@ -17,10 +17,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,4 +31,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 <!---LeetCode Topics End-->
