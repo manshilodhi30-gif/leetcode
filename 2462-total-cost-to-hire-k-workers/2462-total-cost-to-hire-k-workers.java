@@ -1,36 +1,25 @@
-import java.util.*;
-
 class Solution {
-    public long totalCost(int[] c, int k, int m) {
-        
+    public long totalCost(int[] costs, int k, int candidates) {
+        int n = costs.length;
         PriorityQueue<Integer> l = new PriorityQueue<>();
         PriorityQueue<Integer> r = new PriorityQueue<>();
-        
-        int i = 0, j = c.length - 1;
-        
-        for (int x = 0; x < m && i <= j; x++) {
-            l.add(c[i++]);
-        }
-        
-        for (int x = 0; x < m && i <= j; x++) {
-            r.add(c[j--]);
-        }
-        
+        int i = 0, j = n - 1;
         long ans = 0;
-        
-        for (int x = 0; x < k; x++) {
-            int a = l.isEmpty() ? Integer.MAX_VALUE : l.peek();
-            int b = r.isEmpty() ? Integer.MAX_VALUE : r.peek();
-            
-            if (a <= b) {
+        for (int x = 0; x < candidates && i <= j; x++) {
+            l.add(costs[i++]);
+        }
+        for (int x = 0; x < candidates && i <= j; x++) {
+            r.add(costs[j--]);
+        }
+        while (k-- > 0) {
+            if (r.isEmpty() || (!l.isEmpty() && l.peek() <= r.peek())) {
                 ans += l.poll();
-                if (i <= j) l.add(c[i++]);
+                if (i <= j) l.add(costs[i++]);
             } else {
                 ans += r.poll();
-                if (i <= j) r.add(c[j--]);
+                if (i <= j) r.add(costs[j--]);
             }
         }
-        
         return ans;
     }
 }
