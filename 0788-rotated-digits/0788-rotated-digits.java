@@ -1,0 +1,25 @@
+class Solution {
+    public int rotatedDigits(int n) {
+        int c=0;
+        for(int i=0; i<=n; i++){
+            if(isGood(i)){
+                c++;
+            }
+        }
+        return c;
+    }
+    public boolean isGood(int num){
+        boolean flag=false;
+        while(num>0){
+            int d=num%10;
+            if(d==3 || d==4 || d==7){
+                return false;
+            }
+            if(d==2 || d==5 || d==6 || d==9){
+                flag=true;
+            }
+            num=num/10;
+        }
+        return flag;
+    }
+}
