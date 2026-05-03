@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/manshilodhi30-gif/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0796-rotate-string](https://github.com/manshilodhi30-gif/leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +71,8 @@
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/manshilodhi30-gif/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/manshilodhi30-gif/leetcode/tree/main/0788-rotated-digits/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/manshilodhi30-gif/leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
