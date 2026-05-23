@@ -29,6 +29,7 @@
 | [0396-rotate-function](https://github.com/manshilodhi30-gif/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [1306-jump-game-iii](https://github.com/manshilodhi30-gif/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manshilodhi30-gif/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/manshilodhi30-gif/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/manshilodhi30-gif/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/manshilodhi30-gif/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
