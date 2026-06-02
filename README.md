@@ -37,6 +37,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/manshilodhi30-gif/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3161-block-placement-queries](https://github.com/manshilodhi30-gif/leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/manshilodhi30-gif/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3660-jump-game-ix](https://github.com/manshilodhi30-gif/leetcode/tree/main/3660-jump-game-ix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [3161-block-placement-queries](https://github.com/manshilodhi30-gif/leetcode/tree/main/3161-block-placement-queries/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +64,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manshilodhi30-gif/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/manshilodhi30-gif/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +78,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2462-total-cost-to-hire-k-workers](https://github.com/manshilodhi30-gif/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +131,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/manshilodhi30-gif/leetcode/tree/main/3161-block-placement-queries/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 <!---LeetCode Topics End-->
