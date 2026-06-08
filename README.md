@@ -33,6 +33,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manshilodhi30-gif/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manshilodhi30-gif/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/manshilodhi30-gif/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/manshilodhi30-gif/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/manshilodhi30-gif/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/manshilodhi30-gif/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -83,12 +84,14 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/manshilodhi30-gif/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/manshilodhi30-gif/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/manshilodhi30-gif/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/manshilodhi30-gif/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/manshilodhi30-gif/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Hash Table
