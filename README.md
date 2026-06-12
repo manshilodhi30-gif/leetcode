@@ -13,6 +13,7 @@
 | [0010-regular-expression-matching](https://github.com/manshilodhi30-gif/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0396-rotate-function](https://github.com/manshilodhi30-gif/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/manshilodhi30-gif/leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/manshilodhi30-gif/leetcode/tree/main/3660-jump-game-ix/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -41,6 +42,7 @@
 | [2784-check-if-array-is-good](https://github.com/manshilodhi30-gif/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/manshilodhi30-gif/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3161-block-placement-queries](https://github.com/manshilodhi30-gif/leetcode/tree/main/3161-block-placement-queries/) | Hard |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/manshilodhi30-gif/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -110,6 +112,7 @@
 | [0396-rotate-function](https://github.com/manshilodhi30-gif/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/manshilodhi30-gif/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/manshilodhi30-gif/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -136,6 +139,7 @@
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/manshilodhi30-gif/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,8 +166,13 @@
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/manshilodhi30-gif/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/manshilodhi30-gif/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 <!---LeetCode Topics End-->
