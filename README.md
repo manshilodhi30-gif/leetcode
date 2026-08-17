@@ -13,6 +13,7 @@
 | [0010-regular-expression-matching](https://github.com/manshilodhi30-gif/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0396-rotate-function](https://github.com/manshilodhi30-gif/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/manshilodhi30-gif/leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [1563-stone-game-v](https://github.com/manshilodhi30-gif/leetcode/tree/master/1563-stone-game-v) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/manshilodhi30-gif/leetcode/tree/main/3660-jump-game-ix/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -31,6 +32,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0396-rotate-function](https://github.com/manshilodhi30-gif/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [1306-jump-game-iii](https://github.com/manshilodhi30-gif/leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [1563-stone-game-v](https://github.com/manshilodhi30-gif/leetcode/tree/master/1563-stone-game-v) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manshilodhi30-gif/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manshilodhi30-gif/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -112,6 +114,7 @@
 | ------- |
 | [0396-rotate-function](https://github.com/manshilodhi30-gif/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/manshilodhi30-gif/leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [1563-stone-game-v](https://github.com/manshilodhi30-gif/leetcode/tree/master/1563-stone-game-v) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/manshilodhi30-gif/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -177,4 +180,8 @@
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/manshilodhi30-gif/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Game Theory
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/manshilodhi30-gif/leetcode/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
