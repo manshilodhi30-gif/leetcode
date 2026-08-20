@@ -44,6 +44,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/manshilodhi30-gif/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/manshilodhi30-gif/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/manshilodhi30-gif/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/manshilodhi30-gif/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3161-block-placement-queries](https://github.com/manshilodhi30-gif/leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manshilodhi30-gif/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -102,6 +103,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/manshilodhi30-gif/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/manshilodhi30-gif/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/manshilodhi30-gif/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/manshilodhi30-gif/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
