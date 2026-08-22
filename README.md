@@ -33,6 +33,7 @@
 | [0396-rotate-function](https://github.com/manshilodhi30-gif/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [1306-jump-game-iii](https://github.com/manshilodhi30-gif/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/manshilodhi30-gif/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1480-running-sum-of-1d-array](https://github.com/manshilodhi30-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/manshilodhi30-gif/leetcode/tree/master/1563-stone-game-v) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manshilodhi30-gif/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manshilodhi30-gif/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -146,6 +147,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/manshilodhi30-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manshilodhi30-gif/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/manshilodhi30-gif/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Depth-First Search
