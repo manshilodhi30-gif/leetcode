@@ -15,6 +15,7 @@
 | [0396-rotate-function](https://github.com/manshilodhi30-gif/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/manshilodhi30-gif/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1563-stone-game-v](https://github.com/manshilodhi30-gif/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/manshilodhi30-gif/leetcode/tree/master/1872-stone-game-viii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/manshilodhi30-gif/leetcode/tree/main/3660-jump-game-ix/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -38,6 +39,7 @@
 | [1563-stone-game-v](https://github.com/manshilodhi30-gif/leetcode/tree/master/1563-stone-game-v) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manshilodhi30-gif/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manshilodhi30-gif/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1872-stone-game-viii](https://github.com/manshilodhi30-gif/leetcode/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/manshilodhi30-gif/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/manshilodhi30-gif/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -125,6 +127,7 @@
 | [0396-rotate-function](https://github.com/manshilodhi30-gif/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/manshilodhi30-gif/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1563-stone-game-v](https://github.com/manshilodhi30-gif/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/manshilodhi30-gif/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/manshilodhi30-gif/leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manshilodhi30-gif/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -152,6 +155,7 @@
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/manshilodhi30-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manshilodhi30-gif/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1872-stone-game-viii](https://github.com/manshilodhi30-gif/leetcode/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/manshilodhi30-gif/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Depth-First Search
 |  |
@@ -203,9 +207,18 @@
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/manshilodhi30-gif/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/manshilodhi30-gif/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/manshilodhi30-gif/leetcode/tree/master/1927-sum-game) |
 ## Combinatorics
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manshilodhi30-gif/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/manshilodhi30-gif/leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/manshilodhi30-gif/leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
