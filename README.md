@@ -58,6 +58,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3660-jump-game-ix](https://github.com/manshilodhi30-gif/leetcode/tree/main/3660-jump-game-ix/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/manshilodhi30-gif/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/manshilodhi30-gif/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/manshilodhi30-gif/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manshilodhi30-gif/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/manshilodhi30-gif/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/manshilodhi30-gif/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
