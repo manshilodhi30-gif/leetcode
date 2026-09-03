@@ -60,6 +60,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/manshilodhi30-gif/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manshilodhi30-gif/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/manshilodhi30-gif/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/manshilodhi30-gif/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/manshilodhi30-gif/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/manshilodhi30-gif/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String Matching
 |  |
 | ------- |
