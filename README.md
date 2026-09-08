@@ -146,6 +146,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/manshilodhi30-gif/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3870-count-commas-in-range](https://github.com/manshilodhi30-gif/leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/manshilodhi30-gif/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/manshilodhi30-gif/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String Matching
