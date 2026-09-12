@@ -20,6 +20,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/manshilodhi30-gif/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/manshilodhi30-gif/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/manshilodhi30-gif/leetcode/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/manshilodhi30-gif/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/manshilodhi30-gif/leetcode/tree/main/3660-jump-game-ix/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -56,6 +57,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manshilodhi30-gif/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manshilodhi30-gif/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/manshilodhi30-gif/leetcode/tree/main/3161-block-placement-queries/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/manshilodhi30-gif/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manshilodhi30-gif/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/manshilodhi30-gif/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -78,6 +80,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manshilodhi30-gif/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/manshilodhi30-gif/leetcode/tree/main/3161-block-placement-queries/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/manshilodhi30-gif/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Divide and Conquer
@@ -96,6 +99,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manshilodhi30-gif/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/manshilodhi30-gif/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/manshilodhi30-gif/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Heap (Priority Queue)
