@@ -39,6 +39,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/manshilodhi30-gif/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0396-rotate-function](https://github.com/manshilodhi30-gif/leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0835-image-overlap](https://github.com/manshilodhi30-gif/leetcode/tree/master/0835-image-overlap) |
 | [1306-jump-game-iii](https://github.com/manshilodhi30-gif/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/manshilodhi30-gif/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/manshilodhi30-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/manshilodhi30-gif/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0835-image-overlap](https://github.com/manshilodhi30-gif/leetcode/tree/master/0835-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Sorting
 |  |
