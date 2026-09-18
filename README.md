@@ -8,6 +8,7 @@
 | [0115-distinct-subsequences](https://github.com/manshilodhi30-gif/leetcode/tree/master/0115-distinct-subsequences) |
 | [0796-rotate-string](https://github.com/manshilodhi30-gif/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/manshilodhi30-gif/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/manshilodhi30-gif/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/manshilodhi30-gif/leetcode/tree/master/1927-sum-game) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/manshilodhi30-gif/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Dynamic Programming
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manshilodhi30-gif/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/manshilodhi30-gif/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2784-check-if-array-is-good](https://github.com/manshilodhi30-gif/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/manshilodhi30-gif/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -133,6 +135,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/manshilodhi30-gif/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/manshilodhi30-gif/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/manshilodhi30-gif/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manshilodhi30-gif/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/manshilodhi30-gif/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/manshilodhi30-gif/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -208,6 +211,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/manshilodhi30-gif/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/manshilodhi30-gif/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/manshilodhi30-gif/leetcode/tree/master/1927-sum-game) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
