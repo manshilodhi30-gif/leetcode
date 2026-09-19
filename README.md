@@ -149,6 +149,7 @@
 | ------- |
 | [0396-rotate-function](https://github.com/manshilodhi30-gif/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/manshilodhi30-gif/leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/manshilodhi30-gif/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/manshilodhi30-gif/leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/manshilodhi30-gif/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/manshilodhi30-gif/leetcode/tree/master/1872-stone-game-viii) |
@@ -258,4 +259,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/manshilodhi30-gif/leetcode/tree/master/1872-stone-game-viii) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/manshilodhi30-gif/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
