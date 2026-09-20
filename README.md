@@ -11,6 +11,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/manshilodhi30-gif/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/manshilodhi30-gif/leetcode/tree/master/1927-sum-game) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/manshilodhi30-gif/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/manshilodhi30-gif/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [2462-total-cost-to-hire-k-workers](https://github.com/manshilodhi30-gif/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/manshilodhi30-gif/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manshilodhi30-gif/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/manshilodhi30-gif/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
