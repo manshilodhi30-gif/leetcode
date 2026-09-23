@@ -67,6 +67,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manshilodhi30-gif/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/manshilodhi30-gif/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/manshilodhi30-gif/leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/manshilodhi30-gif/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/manshilodhi30-gif/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -163,6 +164,7 @@
 | [1927-sum-game](https://github.com/manshilodhi30-gif/leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manshilodhi30-gif/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3524-find-x-value-of-array-i](https://github.com/manshilodhi30-gif/leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/manshilodhi30-gif/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/manshilodhi30-gif/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/manshilodhi30-gif/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/manshilodhi30-gif/leetcode/tree/main/3161-block-placement-queries/) | Hard |
+| [3525-find-x-value-of-array-ii](https://github.com/manshilodhi30-gif/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Greedy
 |  |
 | ------- |
