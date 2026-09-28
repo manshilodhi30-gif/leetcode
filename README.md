@@ -11,6 +11,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/manshilodhi30-gif/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/manshilodhi30-gif/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manshilodhi30-gif/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/manshilodhi30-gif/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/manshilodhi30-gif/leetcode/tree/master/1927-sum-game) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/manshilodhi30-gif/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/manshilodhi30-gif/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -53,6 +54,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manshilodhi30-gif/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manshilodhi30-gif/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manshilodhi30-gif/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/manshilodhi30-gif/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/manshilodhi30-gif/leetcode/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/manshilodhi30-gif/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/manshilodhi30-gif/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -147,6 +149,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/manshilodhi30-gif/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manshilodhi30-gif/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manshilodhi30-gif/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/manshilodhi30-gif/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/manshilodhi30-gif/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/manshilodhi30-gif/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/manshilodhi30-gif/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
